@@ -48,3 +48,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+.positai
+
+
+power_analysis/output/*.png
+power_analysis/output/*.pdf
