@@ -53,3 +53,6 @@ rsconnect/
 
 power_analysis/output/*.png
 power_analysis/output/*.pdf
+
+.DS_Store
+   
