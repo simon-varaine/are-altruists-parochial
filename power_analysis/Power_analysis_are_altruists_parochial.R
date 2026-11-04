@@ -1,6 +1,6 @@
 ############################################################
 ## Power analysis -- "Are Altruists Parochial?"
-## Stage 1 Registered Report, Nature Human Behaviour
+## Stage 1 Registered Report
 ##
 ## 1. Power of the confirmatory test (OLS of beta on theta)
 ## 2. Power of the equivalence test (TOST) under b = 0
